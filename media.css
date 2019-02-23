@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@media (min-width: 570px) {
+   p {
+    text-align: center;
+  }
+}
+@media (min-width: 912px) {
+  p {
+   text-align: center;
+ }
+}
